@@ -139,7 +139,7 @@ function draw() {
     es.stop();
     sunS.stop();
   }
-  if(mousePressedOver(mars))
+  if(mousePressedOver(mercury))
   {
     ms.play();
     js.stop();
